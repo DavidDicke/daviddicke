@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I just graduated from Le Wagons Full Stack Development Bootcamp 🚌. 
+Now I am ready to apply my skills and grow them forever.
+
+Many Projects in the pipe...
+
+
+
 <!--
 **DavidDicke/daviddicke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
